@@ -12,3 +12,4 @@
 2. Install pre-commit hooks `pre-commit install`
 3. Create an .env file an setup:
    - BOT_TOKEN - api token from @BotFather
+4. Start a bot `python -m src`
