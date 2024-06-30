@@ -1,6 +1,11 @@
 # Python telegram Bot
 
 ## Requirements
+- Python >= 3.10
+- SQLAlchemy >= 2
+- Python Telegram [Bot](https://github.com/python-telegram-bot/python-telegram-bot) >= 21
+- pre-commit
+- alembic
 
 ## Dev setup
 1. Install requirements `pip install -r requirements.txt`
