@@ -1,0 +1,8 @@
+SQLAlchemy==2.0.31
+alembic==1.13.2
+black==24.4.2
+isort==5.13.2
+loguru==0.7.2
+pre-commit
+pytest==8.2.2
+python-telegram-bot==21.3
